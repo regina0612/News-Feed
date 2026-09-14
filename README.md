@@ -2,6 +2,7 @@
 *NIM:* 124140063
 
 ## Screenshot Aplikasi
+![Screenshot](Screenshot1.png)
 
 
 
